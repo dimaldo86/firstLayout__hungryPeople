@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Banny-LightRound';
+  src: url('Banny-LightRound.eot');
+  src: url('Banny-LightRound.eot?#iefix') format('embedded-opentype'),
+       url('Banny-LightRound.svg#Banny-LightRound') format('svg'),
+       url('Banny-LightRound.ttf') format('truetype'),
+       url('Banny-LightRound.woff') format('woff'),
+       url('Banny-LightRound.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
